@@ -1,1 +1,1 @@
-# IBMCourse
+For the final assignment, I will create a presentation based on the analysis of the Stack Overflow survey data conducted in various modules. My presentation will tell a clear and compelling story of my findings, making the data easy to understand and relevant to the audience.
